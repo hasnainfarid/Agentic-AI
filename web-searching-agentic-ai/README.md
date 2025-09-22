@@ -1,14 +1,19 @@
+
+<img width="1246" height="910" alt="Agentic_AI_00" src="https://github.com/user-attachments/assets/bca7893b-62a2-4e4a-8005-75da9920a902" />
+
+
+
 # Web-Searching Agentic AI
 
 A powerful ReAct (Reasoning + Acting) agent with beautiful GUI, real-time web search, and intelligent tool usage.
 
 ## Features
-- 🧠 **ReAct Reasoning** - See AI thinking process step by step
-- 🌐 **Web Search** - Real-time information with Tavily
-- 🧮 **Calculator** - Math problem solving
-- 🌤️ **Weather** - Mock weather information
-- 🎨 **Beautiful GUI** - Clean, modern interface
-- ⚡ **Fast Performance** - Powered by Groq's Llama 3.3 70B
+-  **ReAct Reasoning** - See AI thinking process step by step
+-  **Web Search** - Real-time information with Tavily
+-  **Calculator** - Math problem solving
+-  **Weather** - Mock weather information
+-  **Beautiful GUI** - Clean, modern interface
+-  **Fast Performance** - Powered by Groq's Llama 3.3 70B
 
 ## Setup
 
@@ -53,10 +58,10 @@ python web_searching_agentic_ai.py
 ## How It Works
 
 This agent uses the ReAct (Reasoning + Acting) framework:
-1. **🧠 Thought**: AI reasons about what to do
-2. **⚡ Action**: AI selects appropriate tool
-3. **👁️ Observation**: AI gets results from tool
-4. **✅ Final Answer**: AI provides complete response
+1. ** Thought**: AI reasons about what to do
+2. ** Action**: AI selects appropriate tool
+3. ** Observation**: AI gets results from tool
+4. ** Final Answer**: AI provides complete response
 
 ## Contributing
 
