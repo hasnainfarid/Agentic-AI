@@ -58,10 +58,10 @@ python web_searching_agentic_ai.py
 ## How It Works
 
 This agent uses the ReAct (Reasoning + Acting) framework:
-1. ** Thought**: AI reasons about what to do
-2. ** Action**: AI selects appropriate tool
-3. ** Observation**: AI gets results from tool
-4. ** Final Answer**: AI provides complete response
+1. **Thought**: AI reasons about what to do
+2. **Action**: AI selects appropriate tool
+3. **Observation**: AI gets results from tool
+4. **Final Answer**: AI provides complete response
 
 ## Contributing
 
